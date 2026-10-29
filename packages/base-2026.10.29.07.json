@@ -1,0 +1,18 @@
+{
+  "product": "Viper MOLT",
+  "line": "base",
+  "version": "2026.10.29.07",
+  "notes": [
+    "New: Running now has tabs: Safe to close, Hardware, Windows and All, so it's easier to see what you can close.",
+    "New: Tick several programs and press Close selected to close them all at once.",
+    "New: Hardware programs, like graphics, audio, lighting and keyboard or mouse tools, are listed separately and marked Needed so you don't close them by accident.",
+    "Improved: Picking fixes now uses checkboxes. A checked box means the fix is made when you press Apply.",
+    "Improved: The Startup apps list now has a \"Fix\" column to match the new checkboxes.",
+    "Improved: Running now shows \"None\" when a tab has nothing in it.",
+    "Fixed: Messages no longer pile up on top of each other. A new one replaces the old one."
+  ],
+  "date": "2026-10-29T17:49:57.539Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.07/web.zip",
+  "sha256": "6ff24119b508800a2f386d8423808d0afd2443aa485db8c7483aa84f8afb2bcb",
+  "size": 2180873
+}
