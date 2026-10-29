@@ -1,0 +1,12 @@
+{
+  "product": "Viper MOLT",
+  "line": "base",
+  "version": "2026.10.29.05",
+  "notes": [
+    "Improved: If a Windows tool can't open, the message now tells you why. It says whether you're in the preview or using a copy without Windows access."
+  ],
+  "date": "2026-10-29T16:59:24.305Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.05/web.zip",
+  "sha256": "f9d8705a7f52f9330ddaaa77e8134202c8382ec5a2b2f3e32cf40febfa8480d7",
+  "size": 2173734
+}
