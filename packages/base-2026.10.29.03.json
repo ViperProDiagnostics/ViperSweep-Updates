@@ -1,0 +1,19 @@
+{
+  "product": "Viper MOLT",
+  "line": "base",
+  "version": "2026.10.29.03",
+  "notes": [
+    "Improved: New look at the top left, with the snake logo, the Viper MOLT name and your PC's details",
+    "Improved: The program is now called Viper MOLT",
+    "Improved: Shorter, cleaner wording on every screen, with fewer long explanations",
+    "Improved: The startup apps chart is simpler and easier to read",
+    "Improved: Scan and results screens show only the key facts",
+    "Improved: Settings, buttons and descriptions use short labels",
+    "Improved: Scan results now say \"issues found\" instead of \"things slowing this PC down\"",
+    "Improved: Restore points and confirmation messages are shorter and clearer"
+  ],
+  "date": "2026-10-29T16:44:03.039Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.03/web.zip",
+  "sha256": "4128e55ef0f14749dd5a9874b12c18379bff90789e946f8876feac236712bc11",
+  "size": 2172358
+}
