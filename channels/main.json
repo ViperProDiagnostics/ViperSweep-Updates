@@ -1,19 +1,18 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.06",
+  "version": "2026.10.29.07",
   "notes": [
-    "New: My Rig screen shows your PC's full specs: system, processor, graphics, memory, motherboard, disks, monitors, network and audio",
-    "New: Drives section lists every drive with how full it is, on both My Rig and Storage",
-    "New: Running now lists every program like Task Manager, grouped by name",
-    "New: Search and sort Running now by memory, processor or name, and press Refresh to update it",
-    "New: End task button for programs that aren't part of Windows",
-    "Improved: Screens that need a scan now say \"Scan PC first\"",
-    "Improved: Fixes that worked show as done right away",
-    "Fixed: Results no longer shows broken numbers after applying fixes"
+    "New: Running now has tabs: Safe to close, Hardware, Windows and All, so it's easier to see what you can close.",
+    "New: Tick several programs and press Close selected to close them all at once.",
+    "New: Hardware programs, like graphics, audio, lighting and keyboard or mouse tools, are listed separately and marked Needed so you don't close them by accident.",
+    "Improved: Picking fixes now uses checkboxes. A checked box means the fix is made when you press Apply.",
+    "Improved: The Startup apps list now has a \"Fix\" column to match the new checkboxes.",
+    "Improved: Running now shows \"None\" when a tab has nothing in it.",
+    "Fixed: Messages no longer pile up on top of each other. A new one replaces the old one."
   ],
-  "date": "2026-10-29T17:30:09.852Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.06/web.zip",
-  "sha256": "b1bd2ac4faf0cd115dd23b2691f3f3e498c798a420eff076f3c46b72d9210e14",
-  "size": 2179584
+  "date": "2026-10-29T17:49:59.979Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.07/web.zip",
+  "sha256": "6ff24119b508800a2f386d8423808d0afd2443aa485db8c7483aa84f8afb2bcb",
+  "size": 2180873
 }
