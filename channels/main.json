@@ -1,12 +1,19 @@
 {
-  "product": "Viper Sweep",
+  "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.01",
+  "version": "2026.10.29.02",
   "notes": [
-    "Viper Sweep: scan, fixes, results and Settings Information screens"
+    "New: Scans your real PC when Windows system access is on. The example PC is only used in previews.",
+    "New: The speed score, boot time and memory use now come from your own computer.",
+    "New: Fixes apply for real. A restore point is made first, and Windows asks for permission if it needs to.",
+    "New: Undo any change one by one, or undo everything, from the Results screen.",
+    "New: Close running programs from the Running now screen.",
+    "New: Windows tools buttons now open the real Windows control panels, including System Restore.",
+    "New: The Processor activity graph shows your PC's live readings.",
+    "Improved: Results show real before and after numbers, and tell you when to restart and scan again."
   ],
-  "date": "2026-10-29T16:02:30.825Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.01/web.zip",
-  "sha256": "12949ae35f809900fa26d2f1e01a603bb54c9b376ab12aca259fa49b0c536928",
-  "size": 844713
+  "date": "2026-10-29T16:28:56.853Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.02/web.zip",
+  "sha256": "7f7bcb04a89db4b9a05c3e707f0b25698713e2c52bd62ca91ba0956225ff1713",
+  "size": 1932917
 }
