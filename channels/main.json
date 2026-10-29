@@ -1,18 +1,12 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.04",
+  "version": "2026.10.29.05",
   "notes": [
-    "Fixed: The scan screen no longer shows the example PC as if it were your own computer.",
-    "New: A clear message appears when Windows access isn't available, with a Check for updates button.",
-    "New: Settings now shows whether Windows access is On or Off.",
-    "Improved: When a scan fails, the reason now stays visible on the screen.",
-    "Improved: Preinstalled extras from the Microsoft Store now show readable names.",
-    "Fixed: The window now scrolls when the app is installed.",
-    "Fixed: The version number in Settings no longer fails to load in the preview."
+    "Improved: If a Windows tool can't open, the message now tells you why. It says whether you're in the preview or using a copy without Windows access."
   ],
-  "date": "2026-10-29T16:53:50.026Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.04/web.zip",
-  "sha256": "e122c6d590d05f681352c426175735394b5273a50454b3cdf250b1686a9aa1b5",
-  "size": 2173382
+  "date": "2026-10-29T16:59:26.528Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.05/web.zip",
+  "sha256": "f9d8705a7f52f9330ddaaa77e8134202c8382ec5a2b2f3e32cf40febfa8480d7",
+  "size": 2173734
 }
