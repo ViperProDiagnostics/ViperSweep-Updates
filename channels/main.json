@@ -1,18 +1,14 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.07",
+  "version": "2026.10.29.08",
   "notes": [
-    "New: Running now has tabs: Safe to close, Hardware, Windows and All, so it's easier to see what you can close.",
-    "New: Tick several programs and press Close selected to close them all at once.",
-    "New: Hardware programs, like graphics, audio, lighting and keyboard or mouse tools, are listed separately and marked Needed so you don't close them by accident.",
-    "Improved: Picking fixes now uses checkboxes. A checked box means the fix is made when you press Apply.",
-    "Improved: The Startup apps list now has a \"Fix\" column to match the new checkboxes.",
-    "Improved: Running now shows \"None\" when a tab has nothing in it.",
-    "Fixed: Messages no longer pile up on top of each other. A new one replaces the old one."
+    "Fixed: The number of issues found now goes back to zero right after you apply fixes, instead of showing a stale count.",
+    "Improved: The issue count now always matches exactly what Apply fixes will change.",
+    "Improved: The title bar in the installed app is now black."
   ],
-  "date": "2026-10-29T17:49:59.979Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.07/web.zip",
-  "sha256": "6ff24119b508800a2f386d8423808d0afd2443aa485db8c7483aa84f8afb2bcb",
-  "size": 2180873
+  "date": "2026-10-29T18:25:08.975Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.08/web.zip",
+  "sha256": "b180d6b3795a106495ba3a233acb411ad33b185b062b3532ce7d14b709db12f0",
+  "size": 2181560
 }
