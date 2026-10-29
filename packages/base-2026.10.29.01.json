@@ -1,0 +1,12 @@
+{
+  "product": "Viper Sweep",
+  "line": "base",
+  "version": "2026.10.29.01",
+  "notes": [
+    "Viper Sweep: scan, fixes, results and Settings Information screens"
+  ],
+  "date": "2026-10-29T16:02:28.629Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.01/web.zip",
+  "sha256": "12949ae35f809900fa26d2f1e01a603bb54c9b376ab12aca259fa49b0c536928",
+  "size": 844713
+}
