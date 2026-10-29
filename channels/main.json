@@ -1,12 +1,19 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.05",
+  "version": "2026.10.29.06",
   "notes": [
-    "Improved: If a Windows tool can't open, the message now tells you why. It says whether you're in the preview or using a copy without Windows access."
+    "New: My Rig screen shows your PC's full specs: system, processor, graphics, memory, motherboard, disks, monitors, network and audio",
+    "New: Drives section lists every drive with how full it is, on both My Rig and Storage",
+    "New: Running now lists every program like Task Manager, grouped by name",
+    "New: Search and sort Running now by memory, processor or name, and press Refresh to update it",
+    "New: End task button for programs that aren't part of Windows",
+    "Improved: Screens that need a scan now say \"Scan PC first\"",
+    "Improved: Fixes that worked show as done right away",
+    "Fixed: Results no longer shows broken numbers after applying fixes"
   ],
-  "date": "2026-10-29T16:59:26.528Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.05/web.zip",
-  "sha256": "f9d8705a7f52f9330ddaaa77e8134202c8382ec5a2b2f3e32cf40febfa8480d7",
-  "size": 2173734
+  "date": "2026-10-29T17:30:09.852Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.06/web.zip",
+  "sha256": "b1bd2ac4faf0cd115dd23b2691f3f3e498c798a420eff076f3c46b72d9210e14",
+  "size": 2179584
 }
