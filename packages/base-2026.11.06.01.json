@@ -1,0 +1,12 @@
+{
+  "product": "Viper MOLT",
+  "line": "base",
+  "version": "2026.11.06.01",
+  "notes": [
+    "Ignore option on every issue list; ignored items stay out of scans"
+  ],
+  "date": "2026-11-06T13:12:34.971Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.11.06.01/web.zip",
+  "sha256": "82d54ddae535ce3da662e0c157683501a712fe13833e9f15e1fb732b9052ca37",
+  "size": 2188476
+}
