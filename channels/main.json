@@ -1,12 +1,13 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.11.06.01",
+  "version": "2026.11.06.02",
   "notes": [
-    "Ignore option on every issue list; ignored items stay out of scans"
+    "Running now shows what's running now: read on opening it and when the program opens (not the saved scan's list)",
+    "Scan button at the top center; the installed app always draws this PC's own processor readings, never the example line"
   ],
-  "date": "2026-11-06T13:12:37.093Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.11.06.01/web.zip",
-  "sha256": "82d54ddae535ce3da662e0c157683501a712fe13833e9f15e1fb732b9052ca37",
-  "size": 2188476
+  "date": "2026-11-06T22:33:07.400Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.11.06.02/web.zip",
+  "sha256": "2b190e7089b3d1d04630815e377a6fcd5d765e1973c7db194f508704bde8d93c",
+  "size": 2188625
 }
