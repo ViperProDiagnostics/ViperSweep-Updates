@@ -1,14 +1,12 @@
 {
   "product": "Viper MOLT",
   "installId": "",
-  "version": "2026.10.29.08",
+  "version": "2026.11.06.01",
   "notes": [
-    "Fixed: The number of issues found now goes back to zero right after you apply fixes, instead of showing a stale count.",
-    "Improved: The issue count now always matches exactly what Apply fixes will change.",
-    "Improved: The title bar in the installed app is now black."
+    "Ignore option on every issue list; ignored items stay out of scans"
   ],
-  "date": "2026-10-29T18:25:08.975Z",
-  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.10.29.08/web.zip",
-  "sha256": "b180d6b3795a106495ba3a233acb411ad33b185b062b3532ce7d14b709db12f0",
-  "size": 2181560
+  "date": "2026-11-06T13:12:37.093Z",
+  "url": "https://github.com/ViperProDiagnostics/ViperSweep-Updates/releases/download/base-2026.11.06.01/web.zip",
+  "sha256": "82d54ddae535ce3da662e0c157683501a712fe13833e9f15e1fb732b9052ca37",
+  "size": 2188476
 }
